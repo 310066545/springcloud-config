@@ -1,1 +1,2 @@
-
+config: 
+  info: "master,springcloud-cloud/config-dev,v1"
